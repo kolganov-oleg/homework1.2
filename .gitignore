@@ -1,1 +1,4 @@
-/src/Main.java
+*.iml
+
+/.idea/
+/out/
